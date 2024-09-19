@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github solution repo](https://github.com/254mozart/qr-code-component)
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://qr-code-component-five-mocha.vercel.app/)
 
 ## My process
 
